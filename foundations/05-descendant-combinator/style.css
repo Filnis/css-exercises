@@ -1,0 +1,18 @@
+* {
+    font-family: sans-serif;
+}
+
+.container > .text{
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
+
+code {
+    background: var(--code-background-inline);
+    padding: 0.125rem 0.25rem;
+    width: -webkit-fit-content;
+    width: -moz-fit-content;
+    width: fit-content;
+}

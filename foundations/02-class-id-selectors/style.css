@@ -1,0 +1,19 @@
+.highlight{
+    background-color: pink;
+    font-family: 'Verdana', 'DejaVu sans', 'sans-serif';
+}
+
+.highlight.big{
+    font-size: 25px;
+}
+
+#aaa1 {
+    color: blue;
+    font-size: 36px;
+}
+
+#aaa2{
+    background-color: greenyellow;
+    font-weight: bold;
+    font-size: 24px;
+}
